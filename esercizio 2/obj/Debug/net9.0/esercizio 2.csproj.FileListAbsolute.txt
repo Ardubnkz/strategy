@@ -1,0 +1,15 @@
+C:\Users\Arvin\Documents\GitHub\strategy\esercizio 2\bin\Debug\net9.0\esercizio 2.exe
+C:\Users\Arvin\Documents\GitHub\strategy\esercizio 2\bin\Debug\net9.0\esercizio 2.deps.json
+C:\Users\Arvin\Documents\GitHub\strategy\esercizio 2\bin\Debug\net9.0\esercizio 2.runtimeconfig.json
+C:\Users\Arvin\Documents\GitHub\strategy\esercizio 2\bin\Debug\net9.0\esercizio 2.dll
+C:\Users\Arvin\Documents\GitHub\strategy\esercizio 2\bin\Debug\net9.0\esercizio 2.pdb
+C:\Users\Arvin\Documents\GitHub\strategy\esercizio 2\obj\Debug\net9.0\esercizio 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arvin\Documents\GitHub\strategy\esercizio 2\obj\Debug\net9.0\esercizio 2.AssemblyInfoInputs.cache
+C:\Users\Arvin\Documents\GitHub\strategy\esercizio 2\obj\Debug\net9.0\esercizio 2.AssemblyInfo.cs
+C:\Users\Arvin\Documents\GitHub\strategy\esercizio 2\obj\Debug\net9.0\esercizio 2.csproj.CoreCompileInputs.cache
+C:\Users\Arvin\Documents\GitHub\strategy\esercizio 2\obj\Debug\net9.0\esercizio 2.sourcelink.json
+C:\Users\Arvin\Documents\GitHub\strategy\esercizio 2\obj\Debug\net9.0\esercizio 2.dll
+C:\Users\Arvin\Documents\GitHub\strategy\esercizio 2\obj\Debug\net9.0\refint\esercizio 2.dll
+C:\Users\Arvin\Documents\GitHub\strategy\esercizio 2\obj\Debug\net9.0\esercizio 2.pdb
+C:\Users\Arvin\Documents\GitHub\strategy\esercizio 2\obj\Debug\net9.0\esercizio 2.genruntimeconfig.cache
+C:\Users\Arvin\Documents\GitHub\strategy\esercizio 2\obj\Debug\net9.0\ref\esercizio 2.dll
