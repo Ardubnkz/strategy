@@ -1,0 +1,15 @@
+C:\Users\Arvin\Documents\GitHub\strategy\escrizio 1\bin\Debug\net9.0\escrizio 1.exe
+C:\Users\Arvin\Documents\GitHub\strategy\escrizio 1\bin\Debug\net9.0\escrizio 1.deps.json
+C:\Users\Arvin\Documents\GitHub\strategy\escrizio 1\bin\Debug\net9.0\escrizio 1.runtimeconfig.json
+C:\Users\Arvin\Documents\GitHub\strategy\escrizio 1\bin\Debug\net9.0\escrizio 1.dll
+C:\Users\Arvin\Documents\GitHub\strategy\escrizio 1\bin\Debug\net9.0\escrizio 1.pdb
+C:\Users\Arvin\Documents\GitHub\strategy\escrizio 1\obj\Debug\net9.0\escrizio 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arvin\Documents\GitHub\strategy\escrizio 1\obj\Debug\net9.0\escrizio 1.AssemblyInfoInputs.cache
+C:\Users\Arvin\Documents\GitHub\strategy\escrizio 1\obj\Debug\net9.0\escrizio 1.AssemblyInfo.cs
+C:\Users\Arvin\Documents\GitHub\strategy\escrizio 1\obj\Debug\net9.0\escrizio 1.csproj.CoreCompileInputs.cache
+C:\Users\Arvin\Documents\GitHub\strategy\escrizio 1\obj\Debug\net9.0\escrizio 1.sourcelink.json
+C:\Users\Arvin\Documents\GitHub\strategy\escrizio 1\obj\Debug\net9.0\escrizio 1.dll
+C:\Users\Arvin\Documents\GitHub\strategy\escrizio 1\obj\Debug\net9.0\refint\escrizio 1.dll
+C:\Users\Arvin\Documents\GitHub\strategy\escrizio 1\obj\Debug\net9.0\escrizio 1.pdb
+C:\Users\Arvin\Documents\GitHub\strategy\escrizio 1\obj\Debug\net9.0\escrizio 1.genruntimeconfig.cache
+C:\Users\Arvin\Documents\GitHub\strategy\escrizio 1\obj\Debug\net9.0\ref\escrizio 1.dll
